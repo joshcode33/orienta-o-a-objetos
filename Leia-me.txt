@@ -1,0 +1,4 @@
+Nesta pasta estarão alguns exemplos de como desenvolver um código para classes e métodos.
+Ou melhor dizendo a orientação a objetos.
+Farei algumas funções para sistemas, seja de Tv, controle ou alguma conta, enfim.
+Estarão disponíveis no repósitorio para demonstração.
