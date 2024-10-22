@@ -3,6 +3,17 @@ import pytz
 
 class ContaCorrente():
 
+    """
+    Classe que define uma conta corrente
+    Atributos:
+        saldo = 0
+        nome = Nome do cliente
+        cpf = Cpf do cliente
+        conta = Conta corrente
+        limite = Limite da conta
+        transacoes = Lista de transações
+    """
+
 
     @staticmethod#metodos estáticos, não precisam de nenhum objeto para ser executado.
     def _def_data_hora():                           
