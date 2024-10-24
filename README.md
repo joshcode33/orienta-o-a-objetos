@@ -1,10 +1,12 @@
 ﻿# orienta-oa-objetos
 
- Neste repósitório há uns projetos feitos de exemplo para desenvolver classes e métodos.
+  Mini Sistema bancário desenvolvido com classes e métodos
+
+ Neste repósitório há um projeto feito de exemplo para desenvolver classes e métodos.
  Basicamente um mini portfólio de treinamento
  Onde crio projetos desta área.
 
- Dentre eles está um sistema bancário, sistema funcional de uma televisão e entre outros.
+ No projeto está um mini sistema bancário, junto a função de contacorrente, cartaodecredito e suas agencias.
 
  ![Sistema de Transferências](https://github.com/user-attachments/assets/d1960865-23dd-4d9c-95d7-c879ddedd43d)
 
