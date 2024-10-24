@@ -6,7 +6,7 @@
 #Dentro da classe, você vai criar a "função" (método) __init__
 #Esse método é quem define o que acontece quando você cria uma instância da Classe
 
-#Vamos ver um exemplo para ficar mais claro, com o caso da televisão que a gente vinha comentando
+#Vamos ver um exemplo para ficar mais claro, com o caso da televisão que explicamos na aula.
 
 #classes
 class TV:#nome da classe
